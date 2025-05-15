@@ -1,1 +1,1 @@
-<heading=1> БЕНИ ОТСЮДА</heading>
+<heading = 1 > БЕГИ ОТСЮДА</heading>
