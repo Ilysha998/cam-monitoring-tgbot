@@ -1,0 +1,24 @@
+{
+  "token": "",
+  "admin_chat_id": "1078086225",
+  "cameras": {
+    "phone": {
+    }
+  },
+  "motion_enabled": true,
+  "cooldown": 5,
+  "threshold": 50000,
+  "check_interval": 5,
+  "timeout": 20,
+  "draw_contours": true,
+  "contour_color": [
+    0,
+    255,
+    0
+  ],
+  "contour_thickness": 2,
+  "min_contour_area": 500,
+  "frame_width": 800,
+  "frame_height": 600,
+  "min_motion_area": 500
+}
